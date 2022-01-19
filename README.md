@@ -9,4 +9,4 @@ Este é meu segundo Projeto utilizando HTML/CSS, para criação de uma pagina we
 * CSS
 
 ---
-⌨️ com ❤️ por [Armstrong Lohãns](https://github.com/FernandaCorreaMoreira) 😊
+⌨️ com ❤️ por [Fernanda Correa Moreira](https://github.com/FernandaCorreaMoreira) 😊
